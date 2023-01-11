@@ -1,2 +1,2 @@
 # MiniGame
-# Динамическая генерация элементов по [ссылке](https://andrey98rusanov.github.io/MiniGame/)
+# [color generation](https://andrey98rusanov.github.io/MiniGame/)
